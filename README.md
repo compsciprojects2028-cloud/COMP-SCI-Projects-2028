@@ -35,7 +35,7 @@ And press enter to install the latest version of Git (if you don't have it alrea
 
 ### For Mac
 
-I wasn't able to verify it, as I did with Windows, but for Mac users, visit the Homebrew website and follow the instructions to install it into your system. From there, type out (or copy):
+I wasn't able to verify it, as I did with Windows, but for Mac users, visit the [Homebrew](https://brew.sh/) website and follow the instructions to install it into your system. From there, type out (or copy):
 
 ```bash
    brew install git
