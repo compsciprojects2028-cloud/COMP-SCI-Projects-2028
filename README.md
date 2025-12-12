@@ -26,7 +26,7 @@ Folder Rules
 
 ### For Windows
 
-For your Github account (if you don't have one), create a new account by clicking sign in and **this is important** continue with your Google Account. After a series of steps (and confirmations), it should be done! Simple and easy. For Git, first go to your start menu and type **Command Prompt** to open the windows terminal. From there, type out (or copy): 
+For your Github account (if you don't have one), create a new account by clicking sign up and **this is important** continue with your Google Account. After a series of steps (and confirmations), it should be done! Simple and easy. For Git, first go to your start menu and type **Command Prompt** to open the windows terminal. From there, type out (or copy): 
 
  ```bash
    winget install Git.git
