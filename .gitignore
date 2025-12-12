@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.idea/
+*.log
+
+.vs/
+.vscode/
+
+*.VC.db
+*.VC.VC.opendb
+ipch/
+*.pch
+*.idb
+*.ipdb
+*.pdb
