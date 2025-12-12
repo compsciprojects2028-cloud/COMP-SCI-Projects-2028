@@ -26,7 +26,7 @@ Folder Rules
 
 ### For Windows
 
-Go to your start menu and type **Command Prompt** to open the windows terminal. From there, type out (or copy): 
+For your Github account (if you don't have one), create a new account by clicking sign in and **this is important** continue with your Google Account. After a series of steps (and confirmations), it should be done! Simple and easy. For Git, first go to your start menu and type **Command Prompt** to open the windows terminal. From there, type out (or copy): 
 
  ```bash
    winget install Git.git
@@ -48,7 +48,7 @@ Since most of us already have Visual Studio Code installed, I'm going to use it 
 
 Click on Manage Workspace Trust (in blue) and click Trust (or Ctrl + Enter) to either open a folder or Clone a repository. 
 
-From there, you can clone the repo by clicking "Clone repository", providing the URL to the COMP-SCI-Projects repository in the searchbar. Select where you want the cloned repository to be, and just like that, you've completed the first and arguably most important step!
+From there, you can clone the repo by clicking "Clone repository", providing this URL (https://github.com/compsciprojects2028-cloud/COMP-SCI-Projects-2028.git) in the searchbar. Select where you want the cloned repository to be, and just like that, you've completed the first and arguably most important step!
 
 In that cloned repository, create a folder for your username, subfolders for the languages and code you want to submit and then open up your windows **command prompt** or Mac **terminal** to type the following sequence of instructions:
 
