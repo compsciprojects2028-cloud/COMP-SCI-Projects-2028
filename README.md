@@ -67,4 +67,4 @@ In that cloned repository, create a folder for your username, subfolders for the
    git push origin main
  ```
 
-Remember to wrap files/folders containing spaces in quotation marks in your git add commands (so instead of git add file name.txt for example, you'd do git add "file name.txt"), as doing this prevents parsing errors, and DM Ambrose on Telegram for further enquiries.
+Remember to wrap files/folders containing spaces in quotation marks in your git add commands (e.g git add "file name.txt" instead of git add file name.txt), as doing this prevents parsing errors, and DM Ambrose on Telegram for further enquiries.
