@@ -26,7 +26,9 @@ Folder Rules
 
 ### For Windows
 
-For your Github account (if you don't have one), create a new account by clicking sign up and **this is important** continue with your Google Account. After a series of steps (and confirmations), it should be done! Simple and easy. For Git, first go to your start menu and type **Command Prompt** to open the windows terminal. From there, type out (or copy): 
+For your Github account (if you don't have one), create a new account by clicking sign up and **this is important** continue with your Google Account. After a series of steps (and confirmations), it should be done! Simple and easy. Ensure you first send your GitHub usernames to me, so that I can give you write permissions (you won't be able to contribute otherwise). 
+
+For Git, first go to your start menu and type **Command Prompt** to open the windows terminal. From there, type out (or copy): 
 
  ```bash
    winget install Git.git
@@ -65,4 +67,4 @@ In that cloned repository, create a folder for your username, subfolders for the
    git push origin main
  ```
 
-Ensure you first send your GitHub usernames to me, so that I can give you write permissions (you won't be able to contribute otherwise), and DM Ambrose on Telegram for further inquiries.
+Remember to wrap files/folders containing spaces in quotation marks in your git add commands (so instead of git add file name.txt for example, you'd do git add "file name.txt"), as doing this prevents parsing errors, and DM Ambrose on Telegram for further enquiries.
